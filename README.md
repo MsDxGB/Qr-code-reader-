@@ -1,0 +1,2 @@
+# Qr-code-reader-
+This project is part of a special project to record attendance, get to know workers, and record their attendance and departure times for work   In this project we will write some codes together in order to  :   1-Recognizing and decoding the barcode/QR code that we will be showing to the camera. 2-Adding the stored information as a text on the recognized barcode/QR code. 3-exporting the stored information as a text document.
