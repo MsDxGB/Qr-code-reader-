@@ -17,15 +17,15 @@ Python IDE Or Editor must be Installed In your Device (VsCode  , Atom , Sublime 
 The Requirements  libraries must be  available in your device
 
 # Install the requirments libraries using the following commands : 
-
+```
 # Pillow
 pip install Pillow
 # OpenCv 
 pip install opencv-python 
 # Pyzbar
 pip install pyzbar
+```
 
-
-# If you have any questions or want more open source projects, you can contact me by e-mail : 
-  # mohamedghazalibekied20@gmail.com 
+ If you have any questions or want more open source projects, you can contact me by e-mail : 
+ ``` mohamedghazalibekied20@gmail.com ```
 
